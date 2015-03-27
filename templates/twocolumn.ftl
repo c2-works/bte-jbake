@@ -6,12 +6,12 @@
 -->
 <html>
 
-    <#include "headerpost.ftl">
+    <#include "header.ftl">
 	<#include "logomenu.ftl">
 	<body>
 	<!-- Main -->
 		<div id="main">
-    <#include "containeronecolumn.ftl">
+    <#include "containertwocolumn.ftl">
 		</div>
 	<!-- Main -->
 

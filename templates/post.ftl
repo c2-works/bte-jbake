@@ -1,15 +1,23 @@
-<#include "header.ftl">
-	
-	<#include "menu.ftl">
-	
-	<div class="page-header">
-		<h1><#escape x as x?xml>${content.title}</#escape></h1>
-	</div>
+<!DOCTYPE HTML>
+<!--
+	Monochromed by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
 
-	<p><em>${content.date?string("dd MMMM yyyy")}</em></p>
+    <#include "header.ftl">
+	<#include "logomenu.ftl">
+	<body>
+	<!-- Main -->
+		<div id="main">
+    <#include "containeronecolumn.ftl">
+		</div>
+	<!-- Main -->
 
-	<p>${content.body}</p>
+    <#include "footer.ftl">
 
-	<hr />
-	
-<#include "footer.ftl">
+    <#include "copyright.ftl">
+
+	</body>
+</html>

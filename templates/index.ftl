@@ -1,20 +1,23 @@
-<#include "header.ftl">
-	
-	<#include "menu.ftl">
+<!DOCTYPE HTML>
+<!--
+	Monochromed by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
 
-	<div class="page-header">
-		<h1>Blog</h1>
-	</div>
-	<#list posts as post>
-  		<#if (post.status == "published")>
-  			<a href="${post.uri}"><h1><#escape x as x?xml>${post.title}</#escape></h1></a>
-  			<p>${post.date?string("dd MMMM yyyy")}</p>
-  			<p>${post.body}</p>
-  		</#if>
-  	</#list>
-	
-	<hr />
-	
-	<p>Older posts are available in the <a href="/${config.archive_file}">archive</a>.</p>
+    <#include "header.ftl">
+	<#include "logomenu.ftl">
+	<body class="homepage">
+	<!-- Main -->
+		<div id="main">
+    <#include "container.ftl">
+		</div>
+	<!-- Main -->
 
-<#include "footer.ftl">
+    <#include "footer.ftl">
+
+    <#include "copyright.ftl">
+
+	</body>
+</html>

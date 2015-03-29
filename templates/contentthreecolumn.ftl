@@ -5,7 +5,6 @@
 										<#if (post.status == "published")>
 											<header>
 												<a href="${post.uri}"><h2><#escape x as x?xml>${post.title}</#escape></h2></a>
-												<span class="byline">${post.date?string("dd MMMM yyyy")}</span>
 											</header>
 											<p>${post.body}</p>
 										</#if>

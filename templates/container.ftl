@@ -31,13 +31,5 @@
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
-				</div>
-				<div class="divider">&nbsp;</div>
-				<div class="row">
-				
-				<#include "content.ftl">
-				<#include "sidebar.ftl">
-						
-				</div>
-			
+				</div>			
 			</div>

@@ -41,17 +41,15 @@
 					<div class="6u">
 						<section>
 							<header>
-								<h2>Aenean elementum</h2>
+								<h2>BTE</h2>
 							</header>
-							<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Pellentesque tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus.</p>
-							<ul class="default">
-								<li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
-								<li><a href="#">Lorem ipsum consectetuer adipiscing elit.</a></li>
-								<li><a href="#">Phasellus nec nibh pellentesque congue.</a></li>
-								<li><a href="#">Cras aliquam risus pellentesque pharetra.</a></li>
-								<li><a href="#">Duis non metus commodo euismod lobortis.</a></li>
-								<li><a href="#">Lorem ipsum dolor adipiscing elit.</a></li>
-							</ul>
+								<table><tr><td>
+								<p>Balle Kirkevej 92<br />
+								8600 Silkeborg<br />
+								Denmark</p></td><td><p style="margin-left:15px">
+								Tel. +45 40162127<br />
+								post@btequipment.dk<br />
+								www.btequipment.dk</p></td></tr></table>
 						</section>
 					</div>
 				</div>

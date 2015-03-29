@@ -4,7 +4,7 @@
 	<body>
 	<!-- Main -->
 		<div id="main">
-			<#include "container/containeronecolumn.ftl">
+			<#include "container/containernews.ftl">
 		</div>
 	<!-- Main -->
     <#include "footer/footer.ftl">

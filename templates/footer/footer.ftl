@@ -46,7 +46,7 @@
 								<table><tr><td>
 								<p>Balle Kirkevej 92<br />
 								8600 Silkeborg<br />
-								Denmark</p></td><td><p style="margin-left:15px">
+								Denmark</p></td><td><p style="margin-left:35px">
 								Tel. +45 40162127<br />
 								post@btequipment.dk<br />
 								www.btequipment.dk</p></td></tr></table>
@@ -56,3 +56,4 @@
 			</div>
 		</div>
 	<!-- Footer -->
+	<#include "copyright.ftl">

@@ -1,8 +1,5 @@
 			<div class="container">
 				<div class="row">
-				
-				<#include "contentonecolumn.ftl">
-						
+				<#include "*/content/contentonecolumn.ftl">
 				</div>
-			
 			</div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   	<head>
-		<title>Monochromed by TEMPLATED</title>
+		<title>BTE</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -20,4 +20,4 @@
 	</head>
   <body onload="prettyPrint()">
     <div id="wrap">
-   
+   	<#include "logomenu.ftl">

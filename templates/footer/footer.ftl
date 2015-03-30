@@ -13,10 +13,6 @@
 									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
 									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
 								</li>
-								<li><img src="images/pics07.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
 							</ul>
 						</section>
 					</div>
@@ -28,10 +24,6 @@
 									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
 								</li>
 								<li><img src="images/pics09.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
-								<li><img src="images/pics10.jpg" width="78" height="78" alt="">
 									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
 									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
 								</li>

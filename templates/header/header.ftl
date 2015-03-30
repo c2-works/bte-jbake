@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   	<head>
-		<title>BTE</title>
+		<#if (content.title)??>
+			<#assign nav = (content.title)>
+		<#else>
+			<#assign nav = "Home">
+		</#if>
+		<title>${nav} - BTE</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />

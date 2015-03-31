@@ -7,3 +7,4 @@ TODO:
 * image for banner (1500px x 400px) with logo.
 * 6 images for product categories on home page.
 * partner logos in black/white.
+* anchor tags grey/blue instead of red.

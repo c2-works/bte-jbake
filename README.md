@@ -1,4 +1,4 @@
-# bte-jbake
+# bte-web
 
 TODO:
 * include 4 latest news in footer. (JS)

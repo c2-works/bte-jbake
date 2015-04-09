@@ -2,8 +2,8 @@
 			<div class="container">
 				<!-- Logo -->
 					<div id="logo">
-						<!-- <h1><a href="http://btequipment.dk/">BTE</a></h1>
-						<span>Because testing materials is our strength</span> -->
+						<h1><a href="http://btequipment.dk/">BTE</a></h1>
+						<span>Because testing materials is our strength</span>
 					</div>
 				<!-- Nav -->
 					<nav id="nav">

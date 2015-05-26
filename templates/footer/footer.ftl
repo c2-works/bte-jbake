@@ -5,13 +5,11 @@
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li><img src="images/pics05.jpg" width="78" height="78" alt="">
-									<p>1 non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
+								<li class="first"><a href="news.html"><img src="images/pics05.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
 								</li>
-								<li><img src="images/pics06.jpg" width="78" height="78" alt="">
-									<p>2 non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
+								<li><a href="news.html"><img src="images/pics06.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
 								</li>
 							</ul>
 						</section>
@@ -19,21 +17,19 @@
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li class="first"><img src="images/pics08.jpg" width="78" height="78" alt="">
-									<p>3 non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
+								<li class="first"><a href="news.html"><img src="images/pics08.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
 								</li>
-								<li><img src="images/pics09.jpg" width="78" height="78" alt="">
-									<p>4 non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
+								<li><a href="news.html"><img src="images/pics09.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
 								</li>
 							</ul>
 						</section>				
 					</div>
 					<div class="6u">
-						<section>
+						<section id="contact">
 							<header>
-								<h2>BTE</h2>
+								<img alt="BTE logo" src="images/logo_w.png" />
 							</header>
 								<table>
 									<tr><td>Balle Kirkevej 92</td><td style="padding-left:40px">Tel. +45 40162127</td></tr>

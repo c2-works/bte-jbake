@@ -95,6 +95,13 @@
 
 	#nav
 	{
+		position: relative;
+		top: 60px;
+	}
+	.homepage #nav
+	{
+		position: relative;
+		top: 100px;
 	}
 	
 		#nav ul

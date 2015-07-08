@@ -2,9 +2,8 @@
 			<div class="container">
 				<!-- Logo -->
 					<div id="logo">
-						<h1><a href="${config.site_host}">&nbsp;</a></h1>
-						<span>&nbsp;</span>
-					</div>
+						<!-- <img alt="BTE logo" src="images/logo.png" /> -->
+ 					</div>
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>

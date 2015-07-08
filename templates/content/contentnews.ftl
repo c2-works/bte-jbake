@@ -7,7 +7,7 @@
 				<#list posts as n>
 					<#if (n.status == "published")>
 						<header>
-							<h3>${n.title}</h3>
+							<h3 id="${n.bookmark}">${n.title}</h3>
 						</header>
 						<p>${n.body}</p>
 						<hr />

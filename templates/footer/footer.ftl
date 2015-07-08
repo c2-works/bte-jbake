@@ -5,11 +5,11 @@
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li class="first"><a href="news.html"><img src="images/pics05.jpg" width="78" height="78" alt=""></a>
-									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
+								<li class="first"><a href="news.html#news-1"><img src="images/pics05.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yy1yyyyyy.</p>
 								</li>
-								<li><a href="news.html"><img src="images/pics06.jpg" width="78" height="78" alt=""></a>
-									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
+								<li><a href="news.html#news-2"><img src="images/pics06.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyy2yyyy.</p>
 								</li>
 							</ul>
 						</section>
@@ -17,11 +17,11 @@
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li class="first"><a href="news.html"><img src="images/pics08.jpg" width="78" height="78" alt=""></a>
-									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
+								<li class="first"><a href="news.html#news-3"><img src="images/pics08.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyy3yyy.</p>
 								</li>
-								<li><a href="news.html"><img src="images/pics09.jpg" width="78" height="78" alt=""></a>
-									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy.</p>
+								<li><a href="news.html#news-4"><img src="images/pics09.jpg" width="78" height="78" alt=""></a>
+									<p class="posted">News:<br />BTE installs new Xxxxxxxxx in Yyyyyyyy4.</p>
 								</li>
 							</ul>
 						</section>				

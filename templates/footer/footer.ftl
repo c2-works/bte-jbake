@@ -5,24 +5,36 @@
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li class="first"><a href="news.html#news-1"><img src="images/pics01.jpg" width="78" height="78" alt=""></a>
-									<p class="posted"><a href="news.html#news-1">New PLC-based furniture and component testing system</a></p>
-								</li>
-								<li><a href="news.html#news-2"><img src="images/pics02.jpg" width="78" height="78" alt=""></a>
-									<p class="posted"><a href="news.html#news-2">BTE installs high force universal testing machine at Nordisk Svejse Kontrol</a></p>
-								</li>
+								<#list posts as n>
+										<#if (n.index == "1")>
+											<li class="first"><a href="news.html#${n.bookmark}"><img src="images/${n.frontpage_thumb}" width="78" height="78" alt=""></a>
+												<p class="posted"><a href="news.html#${n.bookmark}">${n.frontpage_title}</a></p>
+											</li>
+										</#if>
+										<#if (n.index == "2")>
+											<li><a href="news.html#${n.bookmark}"><img src="images/${n.frontpage_thumb}" width="78" height="78" alt=""></a>
+												<p class="posted"><a href="news.html#${n.bookmark}">${n.frontpage_title}</a></p>
+											</li>
+										</#if>
+								</#list>
 							</ul>
 						</section>
 					</div>
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li class="first"><a href="news.html#news-3"><img src="images/pics05.jpg" width="78" height="78" alt=""></a>
-									<p class="posted"><a href="news.html#news-3">Example of embedded video in content</a><br />&nbsp;</p>
-								</li>
-								<li><a href="news.html#news-4"><img src="images/pics06.jpg" width="78" height="78" alt=""></a>
-									<p class="posted"><a href="news.html#news-4">News item number 4</a></p>
-								</li>
+								<#list posts as n>
+										<#if (n.index == "3")>
+											<li class="first"><a href="news.html#${n.bookmark}"><img src="images/${n.frontpage_thumb}" width="78" height="78" alt=""></a>
+												<p class="posted"><a href="news.html#${n.bookmark}">${n.frontpage_title}</a></p>
+											</li>
+										</#if>
+										<#if (n.index == "4")>
+											<li><a href="news.html#${n.bookmark}"><img src="images/${n.frontpage_thumb}" width="78" height="78" alt=""></a>
+												<p class="posted"><a href="news.html#${n.bookmark}">${n.frontpage_title}</a></p>
+											</li>
+										</#if>
+								</#list>
 							</ul>
 						</section>				
 					</div>

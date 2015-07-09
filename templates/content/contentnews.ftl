@@ -9,8 +9,8 @@
 						<header>
 							<h3 id="${n.bookmark}">${n.title}</h3>
 						</header>
-						<p>${n.body}</p>
-						<hr />
+						<div>${n.body}</div>
+						<hr /><br /><br />
 					</#if>
 				</#list>
 		</section>

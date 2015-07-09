@@ -1,9 +1,0 @@
-= Hegewald
-Jonathan Bullock
-2015-03-28
-:jbake-type: post
-:jbake-status: draft
-
-Test equipments, measurement technology, individual components as well as software for the examination of construction units, materials and other products - for more than 20 years Hegewald & Peschke develops and produces highly precise test equipments for industry and research. 
-Apart from the serial manufacturing our enterprise specialized particular in the development of customized test systems and associated component solutions. 
-Beyond that we take care of the installation, calibration,  and modernization of measurement and testing machines.

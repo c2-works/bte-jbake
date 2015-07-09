@@ -1,9 +1,10 @@
-<!-- Content -->
+<!-- Content-->
 	<div class="8u skel-cell-important">
-		<section>
+		<section id="news-section">
 		  <header>
 			<h2>News</h2><br />
 		  </header>
+
 				<#list posts as n>
 					<#if (n.status == "published")>
 						<header>
@@ -13,6 +14,7 @@
 						<hr /><br /><br />
 					</#if>
 				</#list>
+			
 		</section>
 	</div>
 <!-- /Content -->

@@ -2,7 +2,7 @@
 			<div class="container">
 				<!-- Logo -->
 					<div id="logo">
-						<!-- <img alt="BTE logo" src="images/logo.png" /> -->
+						<img alt="BTE logo" src="images/logo.png" />
  					</div>
 				<!-- Nav -->
 					<nav id="nav">

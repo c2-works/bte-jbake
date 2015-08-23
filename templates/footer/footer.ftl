@@ -41,7 +41,7 @@
 					<div class="6u">
 						<section id="contact">
 							<header>
-								<img alt="BTE logo" src="images/logo.png" />
+								<img alt="BTE logo" height="75" width="75" src="images/logo.png" />
 							</header>
 								<table>
 									<tr><td>Balle Kirkevej 92</td><td style="padding-left:40px">Tel. +45 40162127</td></tr>

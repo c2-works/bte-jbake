@@ -40,13 +40,13 @@
 
 	#header
 	{
-		padding: 5em 0em;
+		padding: 3.5em 0em;
 		text-align: center;
 	}
 	
 		.homepage #header
 		{
-			padding: 10em 0em;
+			padding: 5em 0em;
 		}
 
 		#header .container
@@ -96,12 +96,12 @@
 	#nav
 	{
 		position: relative;
-		top: 60px;
+		top: 0px;
 	}
 	.homepage #nav
 	{
 		position: relative;
-		top: 100px;
+		top: 10px;
 	}
 	
 		#nav ul

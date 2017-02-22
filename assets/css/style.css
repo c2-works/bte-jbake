@@ -82,12 +82,12 @@
 		font-style: italic;
 	}
 	
-	p {
+	#products div div section p {
 		margin-bottom: 1em;
         height:80px;
 	}
     
-    ul, ol, dl, table
+    p, ul, ol, dl, table
 	{
 		margin-bottom: 1em;
 	}

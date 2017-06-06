@@ -49,8 +49,18 @@
 	{
 		color: #ffffff;
 	}
+    
+    a:hover
+	{
+		text-decoration: none;
+	}
+    
+    #news-section a
+	{
+		color: #000000;
+	}
 	
-	a:hover
+	#news-section a:hover
 	{
 		text-decoration: none;
 	}
